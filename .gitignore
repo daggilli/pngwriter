@@ -1,0 +1,12 @@
+rediscpp
+*.o
+*.d
+.clang-format
+build
+.vscode
+.DS_Store
+scripts
+docs
+config
+!config/config_example.json
+*.png
